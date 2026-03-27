@@ -29,7 +29,6 @@ By combining remote sensing data with statistical modelling, the study provides 
 ---
 
 # Repository structure
-# Repository structure
 
 ├── code/              # Processing, analysis, and modelling scripts  
 ├── data/              # Raw and processed datasets (see Data availability)  
