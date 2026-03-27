@@ -92,9 +92,9 @@ Scripts are organised sequentially to reflect the analytical workflow.
 
 # Data availability 
 
-Most processed datasets are included within the `data/` directory.
+Many processed datasets are included within the `data/` directory.
 
-Some intermediate or large time series datasets are not included due to file size constraints. These will be made available via an external repository (e.g., Zenodo) upon thesis submission.
+However, the larger datasets are not included due to file size constraints. These will be made available via an external repository (e.g., Zenodo) upon thesis submission.
 
 ---
 
