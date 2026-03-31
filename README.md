@@ -55,7 +55,7 @@ The overall analysis pipeline is structured as follows:
         ↓  
 04 Create main model (linear and mixed-effects models)   
         ↓  
-05 Hypothesis testing (H2/H3) 
+05 Hypothesis testing (H2/H3)  
         ↓  
 06 Correlation of variables  
         ↓  
